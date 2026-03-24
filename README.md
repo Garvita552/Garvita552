@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Garvita Agarwal 👋
 
-<!--
-**Garvita552/Garvita552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student
+💻 Aspiring Software Developer
+🚀 Focused on DSA & Web Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+* 💻 Languages: C++ , Python , JavaScript
+* 🌐 Web: HTML, CSS, React
+* 📱 Linux - Done RHCSA Cerification
+* ⚙️ Tools: Git, GitHub
+
+---
+
+## 📌 Projects
+
+* 📍 Emergency Evacuation System
+* 📍 Placement OS Application
+* 💻 Portfolio Website
+* 🧠 DSA Practice Repository
+
+---
+
+## 📈 Currently Working On
+
+* Solving DSA problems daily
+* Building strong projects for placements
+
+---
+
+## 📫 Connect with Me
+
+* LinkedIn: linkedin.com/in/garvita-agarwal-3a1ba9308
+* Email: garvitaagarwal1230@gmail.com
