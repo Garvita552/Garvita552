@@ -19,8 +19,6 @@
 
 * 📍 Emergency Evacuation System
 * 📍 Placement OS Application
-* 💻 Portfolio Website
-* 🧠 DSA Practice Repository
 
 ---
 
